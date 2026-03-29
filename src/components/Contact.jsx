@@ -88,7 +88,7 @@ export default function Contact() {
                   required
                   rows={5}
                   placeholder="Hello, I'd like to talk about..."
-                  style={{ width: "100%", padding: "12px 16px", border: "1px solid #f3f5f7", borderRadius: 8, background: "#000000", resize: "vertical" }}
+                 style={{ width: "100%", padding: "12px 16px", border: "1px solid #f3f5f7", borderRadius: 8, background: "#faf7f7", resize: "vertical" }}
                 />
               </div>
 
